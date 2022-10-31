@@ -1,0 +1,9 @@
+JAVA  - Linguagem Orientada a Objeto - Desenvolvida na década de 90.
+
+Característica do java.
+
+# Linguagem interpretada 
+Programa com extensão .java
+passa pelo compilador e converte em extensão .class 
+
+JVM - Java Virtual Machine (Maquina Virtual Java)
